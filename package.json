@@ -1,0 +1,10 @@
+{
+  "name": "pdf-generate-api",
+  "version": "1.0.0",
+  "description": "used to convert content  to pdf",
+  "main": "index.js",
+  "repository": "https://github.com/fsyj-123/content2pdf.git",
+  "author": "fsyj <java_is_best@163.com>",
+  "license": "Apache License 2.0",
+  "private": false
+}
